@@ -1,0 +1,9 @@
+F:\Develop\visual studio projects\TOP 10 Algorithms\C# Algorithms\TopAllAlgorithmApplication\TopAllAlgorithmApplication\bin\Debug\TopAllAlgorithmApplication.exe.config
+F:\Develop\visual studio projects\TOP 10 Algorithms\C# Algorithms\TopAllAlgorithmApplication\TopAllAlgorithmApplication\bin\Debug\TopAllAlgorithmApplication.exe
+F:\Develop\visual studio projects\TOP 10 Algorithms\C# Algorithms\TopAllAlgorithmApplication\TopAllAlgorithmApplication\bin\Debug\TopAllAlgorithmApplication.pdb
+F:\Develop\visual studio projects\TOP 10 Algorithms\C# Algorithms\TopAllAlgorithmApplication\TopAllAlgorithmApplication\obj\Debug\TopAllAlgorithmApplication.csprojResolveAssemblyReference.cache
+F:\Develop\visual studio projects\TOP 10 Algorithms\C# Algorithms\TopAllAlgorithmApplication\TopAllAlgorithmApplication\obj\Debug\TopAllAlgorithmApplication.Form1.resources
+F:\Develop\visual studio projects\TOP 10 Algorithms\C# Algorithms\TopAllAlgorithmApplication\TopAllAlgorithmApplication\obj\Debug\TopAllAlgorithmApplication.Properties.Resources.resources
+F:\Develop\visual studio projects\TOP 10 Algorithms\C# Algorithms\TopAllAlgorithmApplication\TopAllAlgorithmApplication\obj\Debug\TopAllAlgorithmApplication.csproj.GenerateResource.Cache
+F:\Develop\visual studio projects\TOP 10 Algorithms\C# Algorithms\TopAllAlgorithmApplication\TopAllAlgorithmApplication\obj\Debug\TopAllAlgorithmApplication.exe
+F:\Develop\visual studio projects\TOP 10 Algorithms\C# Algorithms\TopAllAlgorithmApplication\TopAllAlgorithmApplication\obj\Debug\TopAllAlgorithmApplication.pdb
